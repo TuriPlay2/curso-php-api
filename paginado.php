@@ -40,7 +40,7 @@
                 <div class="card mt-3">
                     <!-- <img class="card-img-top" src="<?=$value['url']?>" alt="Card image cap"> -->
                     <div class="card-body">
-                        <h5 class="card-title"><?=$value['']?></h5>
+                        <h5 class="card-title"><?=$value['name']?></h5>
                     </div>
                 </div>
             </div>
